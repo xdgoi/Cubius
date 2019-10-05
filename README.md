@@ -1,16 +1,16 @@
 # Welcome to Cubius!
 
-Cubius OS is a CLI that you can use to make using the terminal easier!
+Cubius is a CLI that you can use to make using the terminal easier!
 
-Here are the commands that CubiusOS can do right now!
+Here are the commands that Cubius can do right now!
 
 ### Version
 
-Simply type in "version" to get the versionnumber of CubiusOS.
+Simply type in "version" to get the version number of Cubius.
 
 ### Time
 
-Simply type in the word "time" into CubiusOS and it will give you the time.
+Simply type in the word "time" into Cubius and it will give you the time.
 
 ### Text File
 
