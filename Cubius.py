@@ -97,6 +97,7 @@ while True:
             print("")
 
 
+   # This trigger will give you help when the user types in "help"
     if response == "help":
         print("")
         print("version - Will get you the current version number you are using of cubius.")
@@ -113,5 +114,6 @@ while True:
         print("")
 
     
+    # This bit of code will exit the loop.
     if response == "exit":
         break
