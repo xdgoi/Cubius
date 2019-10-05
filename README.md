@@ -23,3 +23,11 @@ Like the Linux command rmdir, type "rmDir" to remove a directory / folder.
 ### URL's
 
 Type "url" to go to the website of your choice.
+
+### Help
+
+Type "help" for a list of all the features that cubius can do!
+
+### Exit
+
+Type "exit" to stop the program.
