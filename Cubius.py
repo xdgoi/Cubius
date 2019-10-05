@@ -1,5 +1,4 @@
-# Marcus Cornes, Cube Inc.
-# GNU License
+# Marcus Cornes
 
 
 # This will allow me to use date and time in my program
