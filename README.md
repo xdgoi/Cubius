@@ -31,3 +31,43 @@ Type "help" for a list of all the features that cubius can do!
 ### Exit
 
 Type "exit" to stop the program.
+
+
+### Calculator
+
+Use the word "calculator" to get your very own personal calculator!
+
+
+### Caterpillar Game
+
+Type "caterpillar" to play the game caterrpillar!
+
+
+### rmFile
+
+Type "rmFile" to remove the specified file.
+
+
+### rename
+
+Type "rename" to rename a directory or file
+
+
+### MakeDir
+
+Type "MakeDir" to make a directory / folder.
+
+
+### WorkingDir
+
+Type "WorkingDir" to print the current working directory.
+
+
+### Open
+
+Type "open" to read a file.
+
+
+### MatchMaker
+
+Type "MatchMaker" to play MatchMaker!
