@@ -24,7 +24,6 @@ while True:
     # This is the trigger that will print the current version of my OS
     if response == "version":
         print("CubiusOS 0.0.1")
-        print("GNU License")
 
 
     # This is the trigger that will print the date and time using the datetime python module
