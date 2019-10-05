@@ -1,4 +1,4 @@
-# Welcome to CubiusOS!
+# Welcome to Cubius!
 
 Cubius OS is a CLI that you can use to make using the terminal easier!
 
