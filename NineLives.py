@@ -36,7 +36,7 @@ while lives > 0:
         lives = lives - 1
 
 
-    if guessed_word_correctly:
-        print("You won! The secret word was " + secret_word)
-    else:
-        print("You lost! The secret word was " + secret_word)
+if guessed_word_correctly:
+    print("You won! The secret word was " + secret_word)
+else:
+    print("You lost! The secret word was " + secret_word)

@@ -33,7 +33,7 @@ buttons = {}
 button_symbols = {}
 symbols = [u'\u2702', u'\u2702', u'\u2705', u'\u2705', u'\u2708',
  u'\u2708', u'\u2709', u'\u2709', u'\u270A', u'\u270A', u'\u270B', u'\u270B', u'\u270C', u'\u270C', u'\u270F',
-  u'\u270F', u'\u2712', u'\2712', u'\u2714', u'\u2714', u'\u2716', u'\u2716', u'\u2728', u'\u2728']
+  u'\u270F', u'\u2712', u'\u2712', u'\u2714', u'\u2714', u'\u2716', u'\u2716', u'\u2728', u'\u2728']
 first = True
 previousX = 0
 previousY = 0

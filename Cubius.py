@@ -128,7 +128,9 @@ while True:
         print("")
         print("caterpillar - Will play the caterpillar game.")
         print("")
-        print("MatchMaker - Will play the match maker game")
+        print("MatchMaker - Will play the match maker game.")
+        print("")
+        print("lives - Will play the game NineLives.")
 
     
     # This bit of code will exit the loop.

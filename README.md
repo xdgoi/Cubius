@@ -71,3 +71,8 @@ Type "open" to read a file.
 ### MatchMaker
 
 Type "MatchMaker" to play MatchMaker!
+
+
+### NineLives
+
+Type in "lives" to play NineLives!
