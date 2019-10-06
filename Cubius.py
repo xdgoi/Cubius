@@ -224,3 +224,8 @@ while True:
 
     if response == "MatchMaker":
         import Matchmaker
+
+
+
+    if response == "lives":
+        import NineLives
